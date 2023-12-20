@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SugarbayarEnkhbayar
 - 👀 I’m interested in Data science and algorithm trading.
 - 🌱 I’m currently studying in University of Warsaw as data sciencist
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me send me email sugarbayar123@gmail.com
 
 <!---
